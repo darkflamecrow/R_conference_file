@@ -1,20 +1,3 @@
----
-title: 第十二届中国R会议（北京）会议纪要
-author: 统计之都
-date: '2019-06-29'
-categories:
-  - R会议
-tags:
-  - R会议
-  - R语言
-  - 北京
-  - 统计之都
-  - 中国人民大学
-slug: 12th-china-r-beijing-announcement
-forum_id: 420542
-meta_extra: 
----
-
 ![p1](https://raw.githubusercontent.com/darkflamecrow/R_conference_file/master/2019%E5%8C%97%E4%BA%ACR%E4%BC%9A%E4%BC%9A%E8%AE%AE%E7%BA%AA%E8%A6%81%E5%9B%BE%E7%89%87_1.jpg)
 
 
